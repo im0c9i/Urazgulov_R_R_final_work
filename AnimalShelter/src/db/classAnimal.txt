@@ -1,0 +1,2 @@
+Pack;Horse;Donkey;Camel
+Pet;Cat;Dog;Hamster
